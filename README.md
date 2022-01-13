@@ -32,7 +32,7 @@ $ php bin/console app:run:media
 ```
 
 There's no need to configure anything to run the application. If you have
-[installed Symfony][4] binary, run this command:
+Symfony binary, run this command:
 
 ```bash
 $ cd php-test-apod
